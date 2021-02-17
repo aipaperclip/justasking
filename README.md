@@ -1,3 +1,5 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/chande/justasking)
+
 # JustAsking: A real-time audience polling app
 
 This repository contains everything needed to run JustAsking. From creating the database tables to signing up and billing users through Stripe, to accepting SMS messages from Twilio and broadcasting the results to all users currently viewing the poll.
